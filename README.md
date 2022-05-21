@@ -1,4 +1,4 @@
-# game-game
+# Mahjong Game
 
 This is a majhong game written by Java. The purpose of creating this game is 
 1. I'm a big fan of majhong for a long time
